@@ -1,3 +1,5 @@
+#NOTE: This is a copy of key reampping plus which is a copy of key remapping. Since both no longer receive updates I made this to add support for mouse remapping
+
 # NOTE: This plugin is currently no longer maintained by me. If you want to be a contributor and own future updates, let me know.
 
 # Key Remapping Plus
